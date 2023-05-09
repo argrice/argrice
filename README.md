@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm argrice</h1>
 <h3 align="center">Engineer/DevOps/Developer</h3>
 
-- 🌱 I’m currently learning **Python,Bash**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
